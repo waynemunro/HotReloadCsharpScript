@@ -1,0 +1,6 @@
+using System;
+
+
+Console.WriteLine("Hello from Wayne's scripted meta world in cyberspace!");
+
+Console.WriteLine("Press a key ");
